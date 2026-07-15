@@ -1,2 +1,1 @@
-# Rare-conxept
-We deal with agriculture 
+Upload these files to GitHub Pages or Netlify.
